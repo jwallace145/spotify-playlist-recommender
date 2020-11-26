@@ -1,0 +1,8 @@
+**/__pycache__
+**/venv
+**/node_modules
+**/.eslintcache
+**/.terraform
+**/keys
+**/mongodb-bootstrap.sh
+**/terraform*
